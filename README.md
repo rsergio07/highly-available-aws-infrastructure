@@ -60,6 +60,17 @@ To destroy the created resources and avoid incurring charges, run:
 
 ```bash
 terraform destroy
+```
+
+## Feedback and Contributions
+
+I welcome feedback, suggestions, and contributions. If you encounter issues or have ideas for improvements, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
+
+Thank you for exploring my resume webpage project! If you have any questions, feel free to reach out.
+
+---
+
