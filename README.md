@@ -18,28 +18,15 @@ Before you begin, ensure you have the following:
     cd highly-available-infrastructure
     ```
 
-2. **Open `main.tf` and customize the configuration as needed, replacing placeholder values.**
-
-3. **Initialize your Terraform configuration:**
+2. **Deploy infrastructure using Terraform:**
 
     ```bash
     terraform init
-    ```
-4. **Plan your Infrastructure:**
-   Plan the Terraform configuration to create the AWS resources:
-   ```bash
-   terraform plan
-   ```
-   
-5. **Apply the configuration to create AWS resources:**
-
-    ```bash
+    terraform plan
     terraform apply
     ```
 
-    Terraform will prompt for confirmation; type `yes` and press Enter.
-
-5. **Once the resources are created, you can find the output details in the Terraform apply output.**
+3. **Once the resources are created, you can find the output details in the Terraform apply output.**
 
 ## Project Structure
 
